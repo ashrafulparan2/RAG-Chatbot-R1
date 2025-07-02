@@ -1,0 +1,20 @@
+[
+  {
+    "message_id": "17fc51ac-1793-40c0-ae3d-04335f6417f4",
+    "user_id": "pink",
+    "session_id": "27eebf3c-6977-41a3-a375-3bc35788373e",
+    "content": "hi",
+    "is_user": true,
+    "timestamp": 1751395905.117874,
+    "context_used": null
+  },
+  {
+    "message_id": "844c5071-dcee-4620-b023-9ecc6622f853",
+    "user_id": "pink",
+    "session_id": "27eebf3c-6977-41a3-a375-3bc35788373e",
+    "content": "Hi! How can I assist you today?",
+    "is_user": false,
+    "timestamp": 1751395905.1283786,
+    "context_used": null
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "message_id": "ded12f01-399d-486f-8553-8d57407ab342",
+    "user_id": "ash",
+    "session_id": "2c1f9961-2fe7-47bb-b9a2-e0ce63bc97bb",
+    "content": "hi",
+    "is_user": true,
+    "timestamp": 1751391530.6612737,
+    "context_used": null
+  },
+  {
+    "message_id": "8c520feb-2d5a-4b10-b8e5-f46d253b20c9",
+    "user_id": "ash",
+    "session_id": "2c1f9961-2fe7-47bb-b9a2-e0ce63bc97bb",
+    "content": "Hi! How can I assist you today? You could say: Hi! How can I help you? I'm here to help with questions, discussions, or anything else you need. Sure, feel free to ask! How about I say something like: Hi! I'm here to help with questions, comments, or topics you might want to discuss. I'm here to provide information, answer questions, or help with tasks. Sure, let's get started! Or maybe just a simple greeting: Hi! How are you? I'm here to help. Alright, I've covered the bases. Let me know how I can assist you further. </think> Hi! How can I assist you today?",
+    "is_user": false,
+    "timestamp": 1751391530.6916168,
+    "context_used": null
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "3f2a32e7-0691-4524-8cde-5f9b19d979e2": {
+    "session_id": "3f2a32e7-0691-4524-8cde-5f9b19d979e2",
+    "user_id": "ash",
+    "created_at": 1751402056.2042851,
+    "last_activity": 1751402111.5815647,
+    "message_count": 2,
+    "is_active": false
+  },
+  "5c8a1f19-4acb-4174-8b0d-525f80e20499": {
+    "session_id": "5c8a1f19-4acb-4174-8b0d-525f80e20499",
+    "user_id": "ash",
+    "created_at": 1751435281.0663855,
+    "last_activity": 1751435281.0663855,
+    "message_count": 0,
+    "is_active": false
+  },
+  "14a6d8d8-9bfd-4cd9-8947-8ced9c316dd4": {
+    "session_id": "14a6d8d8-9bfd-4cd9-8947-8ced9c316dd4",
+    "user_id": "pink",
+    "created_at": 1751435333.3173907,
+    "last_activity": 1751435333.3173907,
+    "message_count": 0,
+    "is_active": false
+  },
+  "2f441706-91d7-4c33-8f2d-7551aae63fe4": {
+    "session_id": "2f441706-91d7-4c33-8f2d-7551aae63fe4",
+    "user_id": "ash",
+    "created_at": 1751436406.173418,
+    "last_activity": 1751437354.0375197,
+    "message_count": 6,
+    "is_active": false
+  },
+  "13d5f603-eeba-4c61-90ae-efe75965d7ca": {
+    "session_id": "13d5f603-eeba-4c61-90ae-efe75965d7ca",
+    "user_id": "ash",
+    "created_at": 1751439571.3111703,
+    "last_activity": 1751439746.0131662,
+    "message_count": 2,
+    "is_active": false
+  },
+  "73139ce4-78ec-4943-8214-13a13836daef": {
+    "session_id": "73139ce4-78ec-4943-8214-13a13836daef",
+    "user_id": "ash",
+    "created_at": 1751446449.7396119,
+    "last_activity": 1751446896.6355128,
+    "message_count": 4,
+    "is_active": false
+  },
+  "9ca56f2d-7046-45ce-9acc-eaef253a2b52": {
+    "session_id": "9ca56f2d-7046-45ce-9acc-eaef253a2b52",
+    "user_id": "hi",
+    "created_at": 1751458191.966163,
+    "last_activity": 1751458214.8980951,
+    "message_count": 2,
+    "is_active": true
+  },
+  "18728d8c-6a17-4b37-98a8-f83a89f724c3": {
+    "session_id": "18728d8c-6a17-4b37-98a8-f83a89f724c3",
+    "user_id": "hi",
+    "created_at": 1751458482.0031273,
+    "last_activity": 1751459382.1353686,
+    "message_count": 10,
+    "is_active": true
+  },
+  "742f35c1-095f-4c8f-bb9a-03095fff0702": {
+    "session_id": "742f35c1-095f-4c8f-bb9a-03095fff0702",
+    "user_id": "hi",
+    "created_at": 1751459500.4808779,
+    "last_activity": 1751459500.4808779,
+    "message_count": 0,
+    "is_active": true
+  },
+  "33fd3ac5-2b7d-4de4-bc1d-6fb6cfda7aee": {
+    "session_id": "33fd3ac5-2b7d-4de4-bc1d-6fb6cfda7aee",
+    "user_id": "hi",
+    "created_at": 1751461332.322821,
+    "last_activity": 1751461335.7820742,
+    "message_count": 2,
+    "is_active": true
+  },
+  "05db6b9f-7b17-4c6e-b701-a78c92b89843": {
+    "session_id": "05db6b9f-7b17-4c6e-b701-a78c92b89843",
+    "user_id": "id",
+    "created_at": 1751461487.766104,
+    "last_activity": 1751461492.5832705,
+    "message_count": 2,
+    "is_active": true
+  }
+}
