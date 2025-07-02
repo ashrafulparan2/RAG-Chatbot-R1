@@ -31,6 +31,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Model and Resource Usage
+
+1. "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B" runs on CPU (12GB RAM), or T4 GPU (16GB VRAM)
+2. "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B" , "deepseek-ai/DeepSeek-R1-Distill-Llama-8B" runs on L4 (24GB VRAM)
+
 ## Usage
 
 The chatbot supports multiple users and chat sessions through a simple command-line interface. Each user can have multiple concurrent chat sessions.

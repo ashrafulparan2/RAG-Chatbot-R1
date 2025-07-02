@@ -53,7 +53,7 @@
     "created_at": 1751458191.966163,
     "last_activity": 1751458214.8980951,
     "message_count": 2,
-    "is_active": true
+    "is_active": false
   },
   "18728d8c-6a17-4b37-98a8-f83a89f724c3": {
     "session_id": "18728d8c-6a17-4b37-98a8-f83a89f724c3",
@@ -61,7 +61,7 @@
     "created_at": 1751458482.0031273,
     "last_activity": 1751459382.1353686,
     "message_count": 10,
-    "is_active": true
+    "is_active": false
   },
   "742f35c1-095f-4c8f-bb9a-03095fff0702": {
     "session_id": "742f35c1-095f-4c8f-bb9a-03095fff0702",
@@ -69,7 +69,7 @@
     "created_at": 1751459500.4808779,
     "last_activity": 1751459500.4808779,
     "message_count": 0,
-    "is_active": true
+    "is_active": false
   },
   "33fd3ac5-2b7d-4de4-bc1d-6fb6cfda7aee": {
     "session_id": "33fd3ac5-2b7d-4de4-bc1d-6fb6cfda7aee",
@@ -77,13 +77,21 @@
     "created_at": 1751461332.322821,
     "last_activity": 1751461335.7820742,
     "message_count": 2,
-    "is_active": true
+    "is_active": false
   },
   "05db6b9f-7b17-4c6e-b701-a78c92b89843": {
     "session_id": "05db6b9f-7b17-4c6e-b701-a78c92b89843",
     "user_id": "id",
     "created_at": 1751461487.766104,
     "last_activity": 1751461492.5832705,
+    "message_count": 2,
+    "is_active": false
+  },
+  "abaaaeb7-d00e-4a92-8d60-3f1f3d148551": {
+    "session_id": "abaaaeb7-d00e-4a92-8d60-3f1f3d148551",
+    "user_id": "id",
+    "created_at": 1751478208.078468,
+    "last_activity": 1751478249.9725547,
     "message_count": 2,
     "is_active": true
   }

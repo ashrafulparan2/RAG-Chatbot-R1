@@ -1,0 +1,20 @@
+[
+  {
+    "message_id": "e01459c2-c3fc-4094-9612-fd84ba2231f4",
+    "user_id": "id",
+    "session_id": "abaaaeb7-d00e-4a92-8d60-3f1f3d148551",
+    "content": "hi",
+    "is_user": true,
+    "timestamp": 1751478249.968953,
+    "context_used": null
+  },
+  {
+    "message_id": "bd8defd9-fd48-46b7-826b-15e149246292",
+    "user_id": "id",
+    "session_id": "abaaaeb7-d00e-4a92-8d60-3f1f3d148551",
+    "content": "Hello! How can I assist you today? You can ask me any questions you'd like, or if you'd like me to help with something specific. Have a great day! Hello! How can I assist you today?",
+    "is_user": false,
+    "timestamp": 1751478249.9725547,
+    "context_used": null
+  }
+]
