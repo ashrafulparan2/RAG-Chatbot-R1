@@ -34,7 +34,7 @@ python main.py
 ## Model and Resource Usage
 
 1. "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B" runs on CPU (12GB RAM), or T4 GPU (16GB VRAM)
-2. "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B" , "deepseek-ai/DeepSeek-R1-Distill-Llama-8B" runs on L4 (24GB VRAM)
+2. "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B", "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B", and "deepseek-ai/DeepSeek-R1-Distill-Llama-8B" runs on L4 GPU (24GB VRAM)
 
 ## Usage
 
